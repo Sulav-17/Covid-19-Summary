@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[8]:
-
-
 name = input("Enter your name: ")
 
 weight = int(input("Enter your weight in pounds: "))
